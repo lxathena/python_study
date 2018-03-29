@@ -9,8 +9,8 @@ import hmac, hashlib
 
 TIME_FORMAT = "%Y-%m-%d %H:%M:%S"
 TIMESTAMP= "%Y%m%d%H%M%S"
-CON_KEY = "029046fdd4ed2cadf11ffd5c98269ccb"
-SECRET_KEY = "a386a54beee8b663b3cc2d35e20333fd"
+CON_KEY = ""
+SECRET_KEY = ""
 
 
 base_url = 'https://api.bithumb.com/'
